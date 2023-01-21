@@ -2,9 +2,9 @@
 
 - Baseado no filme Super Mário Bros.
 - Com foco em mostrar o trailer do filme na página (lançamento previsto para 2023).
--- Feito com objetivo de treinar as habilidades.
+- Feito com objetivo de treinar algumas habilidades frontend.
 
-# Foram usados na estruturação:
+## Foram usados na estruturação:
 - Criação de estrutura HTML, com video de background.
 - Implementação de CSS com responsividade mobile.
 - CSS também foi utilizado para "esconder" o video do trailer que está linkado ao botão principal.
