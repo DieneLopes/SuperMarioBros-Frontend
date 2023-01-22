@@ -125,7 +125,7 @@ body {
     width: 40px;
     text-align: center;
     cursor: pointer;
-    border-radius: 10px;
+    border-radius: 9px;
 }
 
 .modal iframe {
